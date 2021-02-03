@@ -4,6 +4,9 @@ Trey songz pretty girls
 Trey songz amazing
 <<<<<<< HEAD
 Bruno Mars lazy Song
+<<<<<<< HEAD
 '###############################'
 =======
 >>>>>>> parent of 87be59f (add new song)
+=======
+>>>>>>> parent of d81cb27 (added one line in the end)
